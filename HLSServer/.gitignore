@@ -1,0 +1,16 @@
+﻿# clion
+.idea/
+cmake-build-debug/*
+build/*
+
+data/*
+
+# vs
+.vs
+x64/*
+.vs
+
+1-hlsServer/x64/*
+1-httpflvServer/x64/*
+1-rtmpServer/x64/*
+
